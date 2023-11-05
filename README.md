@@ -1,4 +1,4 @@
-# Baurzhan_Zhanysbay-Coursera-Cybersecurity-Capstone-Project
-Project Evaluation
+# Baurzhan_Zhanysbay-Coursera-DEVOPS-Capstone-Project
 
-This is my project week 2
+
+This is my final project 
